@@ -1,2 +1,2 @@
 Languages:
-JAVA 1.5, 16
+JAVA 1.5, 1.6
