@@ -1,2 +1,3 @@
 Languages:
 JAVA 1.5, 1.6
+Design Patterns Explained: A New Perspective on Object Oriented Design, 2nd Edition (Software Patterns) 2nd Edition - Alan Shalloway
