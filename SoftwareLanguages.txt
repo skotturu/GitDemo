@@ -1,4 +1,7 @@
 Languages:
 JAVA 1.5, 1.6
+Effective Java (3rd Edition) by Joshua Bloch
+Java Concurrency in Practice 1st Edition - Brian Goetz 
 Design Patterns Explained: A New Perspective on Object Oriented Design, 2nd Edition (Software Patterns) 2nd Edition - Alan Shalloway
 Clean Code: A Handbook of Agile Software Craftsmanship 1st Edition by Robert C. Martin
+
